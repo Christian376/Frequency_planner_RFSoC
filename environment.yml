@@ -2,6 +2,7 @@ name: environment1
 channels:
   - conda-forge
 dependencies:
+  - numpy
   - python
   - numpy
   - voila
