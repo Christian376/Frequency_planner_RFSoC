@@ -1,0 +1,8 @@
+name: environment1
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - voila
+  - bqplot
